@@ -1,1 +1,9 @@
-# Projects
+# Project
+Thesis_Abstract
+In the evolving industrial landscape, maintaining equipment has become crucial due to technological advancements and rapid industry growth. Initially, maintenance was reactive, waiting for breakdowns to occur, but higher speeds of modern machines led to faster wear and tear. Scheduled maintenance emerged, but it had downsides like unnecessary disassembly.
+To address this, predictive maintenance emerged, allowing engineers to schedule minor repairs preemptively. This is achieved by analyzing vibration data, measuring velocity, displacement, and acceleration caused by rotating equipment. I worked on a project at Fertilizers and Chemicals Travancore FACT Ltd, Kerala, focusing on condition monitoring through vibration analysis.
+My project involves comparing vibration levels with established baselines using ISO 10816-1 standards. Vibration velocity is the metric, and allowable levels are determined by ISO standards. I utilize vibration signature graphs to identify deviations above the threshold, signaling potential breakdowns. By notifying maintenance when velocity surpasses acceptable limits, we prevent major disruptions, saving time and costs. Comprehensive analysis identifies failure causes and suggests preventive measures.
+
+# Seminar
+Semninar_Abstract
+Detecting and rectifying machinery problems early is essential to prevent financial losses, injuries, and disruptions. Monitoring indicators like vibration, noise, and heat can provide advance warnings of potential failures. This seminar focuses on applying vibration-based maintenance to critical rotating machines, specifically the Forced Draft Fan (FD Fan 6B), vital for boiler efficiency. Vibration readings were taken, revealing excessive levels at the fan's driving end. Spike energy readings were also analyzed. The issue was traced to a failed bearing due to prolonged use. Replacement of the bearing resolved the problem, bringing vibration levels within safe limits. This case underscores the importance of predictive maintenance in ensuring safe and productive operations.
